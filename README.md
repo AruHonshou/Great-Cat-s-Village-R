@@ -6,7 +6,7 @@ Sitio oficial del proyecto de mods de Deadlock de AruHonshou.
 
 - `site/`: página estática para GitHub Pages; los cambios en main se publican automáticamente mediante GitHub Actions. En Settings → Pages, la fuente debe ser **GitHub Actions**.
 - `receiver/`: receptor ligero para Cloudflare Workers Free y D1 Free. No requiere un servidor encendido ni un plan de pago.
-- `site/site-config.js`: dirección pública del receptor; no contiene claves. Durante la migración apunta al servicio público actual para conservar el ranking y el contador.
+- `site/site-config.js`: dirección pública del receptor; no contiene claves. Apunta al receptor de Cloudflare de AruHonshou, que conserva el ranking y consulta el contador actualizado.
 
 La página consulta el contador cada cinco minutos y el ranking cada minuto mientras su ventana está abierta. Las donaciones llegan al receptor aunque nadie tenga abierta la web. Se conservan los límites de los planes gratuitos; el servicio guarda en caché las consultas públicas.
 
@@ -26,3 +26,4 @@ La página consulta el contador cada cinco minutos y el ranking cada minuto mien
 Solo se muestran nombres públicos, plataforma, aportes y usuarios de perfil cuando la plataforma los proporciona. Los correos se transforman en identificadores privados HMAC y no se guardan ni publican. Los reintentos de pagos no duplican importes. Las monedas se clasifican por separado. Las personas de plataformas diferentes no se fusionan solo por tener el mismo nombre. Las devoluciones de Buy Me a Coffee se descuentan; Ko-fi requiere reconciliación con su historial porque no ofrece ese evento en la integración utilizada.
 
 Los mods y sus copias funcionales no se modifican ni se incluyen en este repositorio.
+
