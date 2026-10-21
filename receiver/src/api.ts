@@ -68,7 +68,7 @@ async function POST(request:Request){
    if(!e.KOFI_VERIFICATION_TOKEN||!e.DONOR_ID_SECRET)return json({error:'Connection not configured'},503);
    const raw=await body(request);const payload=JSON.parse(new URLSearchParams(raw).get('data')||'{}');
    if(!equal(String(payload.verification_token||''),e.KOFI_VERIFICATION_TOKEN))return json({error:'Unauthorized'},401);
-   if(payload.type!=='Donation')return json({received:true,ignored:true});
+   if(!['Tip','Donation'].includes(payload.type))return json({received:true,ignored:true});
    if(!payload.kofi_transaction_id)return json({error:'Missing transaction identifier'},400);
    provider='kofi';row={id:`kofi:${text(payload.kofi_transaction_id,200)}`,provider,name:payload.from_name,username:payload.username||null,amount:Math.round(Number(payload.amount)*100),currency:payload.currency,public:truth(payload.is_public),refunded:false,occurredAt:Date.parse(payload.timestamp)};
    row.donorKey=await keyFor(provider,text(payload.email,254),text(payload.kofi_transaction_id,200));
@@ -93,3 +93,4 @@ async function POST(request:Request){
 
 return {GET,POST};
 }
+
