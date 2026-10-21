@@ -1,0 +1,45 @@
+CREDITS AND SOURCE ATTRIBUTION
+
+NECO ARC REMAKE MODEL
+Author: JustNerro
+Original model page recorded in the project's source notes:
+https://sketchfab.com/3d-models/neco-arc-remake-af1a2af1ea3647589a94a091cdc8ae61
+Rigged scene supplied through the model creator, as recorded in those notes:
+https://drive.google.com/file/d/1G3b4umYrBll93g0Z-K5CyrfjMH0ZRqlX/view
+
+The existing project documentation identifies the model license as Creative
+Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA). Preserve the
+attribution to JustNerro, noncommercial use, and the applicable ShareAlike
+conditions when redistributing derivatives. The model was adapted to native
+Deadlock skeletons and animations, with custom materials, outlines,
+accessories, and presentations.
+
+GRAVES SOURCE ATTRIBUTION
+Earlier Graves source notes credit the original Neco-Arc model to Nerro.
+The Thriller Part 2 dance and Great Cat's Village background were supplied
+by the mod creator; authorship remains with their respective creators.
+
+OTHER RESOURCES
+Neco Arc, related characters, voices, and illustrations belong to their
+respective rights holders. Artwork, GIFs, audio, and reference animations were
+supplied during the project. They are not attributed to JustNerro as original
+works, and inclusion in this archive does not establish a free license for them.
+Their publication permissions must be considered separately.
+Earlier environment notes also identify Rumba, Gangnam Style, Hip Hop Dancing,
+and Neco Muscular Arc among the supplied reference resources. Preserve their
+applicable creator credits and redistribution terms.
+
+Deadlock and its original assets belong to Valve and their respective rights
+holders. This is an unofficial fan modification.
+
+DEVELOPMENT TOOLS (NOT REQUIRED FOR INSTALLATION)
+Source 2 Viewer / ValveResourceFormat: https://s2v.app/
+VPKEdit, the Source 2 resource compiler, Blender, and PulseSrcOps.
+
+This English attribution carries forward the credits and redistribution notes
+included in the project's earlier archives. Author names, source URLs, and
+license identifiers have been retained.
+
+
+WEBSITE DECORATIVE ANIMATIONS
+Seven original GIFs supplied by the project creator. Neco-Arc sprites identified in the supplied filenames as Melty Blood: Type Lumina. Character and game rights remain with their respective owners. The supplied GIF files are preserved unchanged; website SVG viewboxes crop only their transparent margins.
