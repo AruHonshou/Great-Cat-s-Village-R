@@ -1,5 +1,5 @@
 {
-  "version": "r41",
+  "version": "r42",
   "gamebananaUrl": "https://gamebanana.com/mods/721867",
   "files": [
     {
@@ -7,21 +7,21 @@
       "title": "Required Compatibility Base",
       "titleEs": "Base de compatibilidad para skins",
       "description": "Shared compatibility for the five Neco skins. Install this once before adding your characters.",
-      "descriptionEs": "Compatibilidad compartida para las cinco skins Neco. Instálala una sola vez antes de añadir tus personajes.",
+      "descriptionEs": "Compatibilidad compartida para las cinco skins Neco. InstÃ¡lala una sola vez antes de aÃ±adir tus personajes.",
       "category": "skins",
       "size": 25715451,
       "filename": "01 Required Compatibility Base OBLIGATORY.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/01.Required.Compatibility.Base.OBLIGATORY.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/01.Required.Compatibility.Base.OBLIGATORY.zip",
       "sha256": "6b654232e34818ba0c996d327d71c44c7670698c32049882278f2d8a7d15f782"
     },
     {
       "number": "02",
       "title": "Paradox - Neco Akiha - Complete Skin",
-      "titleEs": "Paradox — Neco Akiha",
+      "titleEs": "Paradox â€” Neco Akiha",
       "description": "Complete Neco Akiha skin for Paradox: model, animations, ability art, voices and character sounds.",
-      "descriptionEs": "Todo sobre Neco Akiha para Paradox: modelo, animaciones, imágenes de habilidades, voces y sonidos.",
+      "descriptionEs": "Todo sobre Neco Akiha para Paradox: modelo, animaciones, imÃ¡genes de habilidades, voces y sonidos.",
       "category": "skins",
       "size": 45236447,
       "filename": "02 Paradox - Neco Akiha - Complete Skin.zip",
@@ -29,47 +29,47 @@
         "01"
       ],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/02.Paradox.-.Neco.Akiha.-.Complete.Skin.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/02.Paradox.-.Neco.Akiha.-.Complete.Skin.zip",
       "sha256": "5a76357ba175c6b082b52bc3003ed498c0bf2b22380adb4191a8015b0162184c"
     },
     {
       "number": "03",
       "title": "Baba - Neco Chaos - Complete Skin",
-      "titleEs": "Baba — Neco Chaos",
+      "titleEs": "Baba â€” Neco Chaos",
       "description": "Complete Neco Chaos skin for Baba, including its model, dances, ability overlays and character audio.",
-      "descriptionEs": "Skin completa de Neco Chaos para Baba: modelo, bailes, imágenes de habilidades y audio.",
+      "descriptionEs": "Skin completa de Neco Chaos para Baba: modelo, bailes, imÃ¡genes de habilidades y audio.",
       "category": "skins",
-      "size": 97782474,
+      "size": 96492635,
       "filename": "03 Baba - Neco Chaos - Complete Skin.zip",
       "requires": [
         "01"
       ],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/03.Baba.-.Neco.Chaos.-.Complete.Skin.zip",
-      "sha256": "7262b1916792659e1adc92e43315e6186d9f3003547be5cd71e1dd7ad3096cc7"
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/03.Baba.-.Neco.Chaos.-.Complete.Skin.zip",
+      "sha256": "b8040e9e54800220156a8901b3915f912fe89604d4732e58e1c8e6d934cec0aa"
     },
     {
       "number": "04",
       "title": "Rem - Neco Arc - Complete Skin",
-      "titleEs": "Rem — Neco-Arc",
+      "titleEs": "Rem â€” Neco-Arc",
       "description": "Complete Neco-Arc skin for Rem, including its model, dances, HUD art, ability images and voices.",
-      "descriptionEs": "Skin completa de Neco-Arc para Rem: modelo, bailes, HUD, imágenes de habilidades y voces.",
+      "descriptionEs": "Skin completa de Neco-Arc para Rem: modelo, bailes, HUD, imÃ¡genes de habilidades y voces.",
       "category": "skins",
-      "size": 161841286,
+      "size": 161935997,
       "filename": "04 Rem - Neco Arc - Complete Skin.zip",
       "requires": [
         "01"
       ],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/04.Rem.-.Neco.Arc.-.Complete.Skin.zip",
-      "sha256": "03749fb98f597f0205405a4d32f89b5516d1c4dfce04e63d1d59c37413981708"
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/04.Rem.-.Neco.Arc.-.Complete.Skin.zip",
+      "sha256": "8afc22c4e391b98ab4a0d441e474ac5ddf7ddd97bd96fc4ad3c05daeb1e5d578"
     },
     {
       "number": "05",
       "title": "Graves - Neco Hisui and Kohaku - Complete Skin",
-      "titleEs": "Graves — Hisui y Kohaku",
+      "titleEs": "Graves â€” Hisui y Kohaku",
       "description": "Hisui and Kohaku models for Graves, with character animations, ability images and audio.",
-      "descriptionEs": "Modelos de Hisui y Kohaku para Graves, con animaciones, imágenes de habilidades y audio.",
+      "descriptionEs": "Modelos de Hisui y Kohaku para Graves, con animaciones, imÃ¡genes de habilidades y audio.",
       "category": "skins",
       "size": 129128548,
       "filename": "05 Graves - Neco Hisui and Kohaku - Complete Skin.zip",
@@ -77,15 +77,15 @@
         "01"
       ],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/05.Graves.-.Neco.Hisui.and.Kohaku.-.Complete.Skin.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/05.Graves.-.Neco.Hisui.and.Kohaku.-.Complete.Skin.zip",
       "sha256": "b74d5b3ea98ca92ce6b8f7580334feeb5d219108e6cda94e74c5c35d86335fe7"
     },
     {
       "number": "06",
       "title": "Dynamo - Neco Ciel - Complete Skin",
-      "titleEs": "Dynamo — Neco Ciel",
+      "titleEs": "Dynamo â€” Neco Ciel",
       "description": "Complete Neco Ciel skin for Dynamo, with character resources, ability images and the animated A4 overlay.",
-      "descriptionEs": "Skin completa de Neco Ciel para Dynamo, con sus recursos de personaje, imágenes de habilidades y el GIF de la A4.",
+      "descriptionEs": "Skin completa de Neco Ciel para Dynamo, con sus recursos de personaje, imÃ¡genes de habilidades y el GIF de la A4.",
       "category": "skins",
       "size": 46129778,
       "filename": "06 Dynamo - Neco Ciel - Complete Skin.zip",
@@ -93,7 +93,7 @@
         "01"
       ],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/06.Dynamo.-.Neco.Ciel.-.Complete.Skin.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/06.Dynamo.-.Neco.Ciel.-.Complete.Skin.zip",
       "sha256": "b266fed06d6d0d95993b49cfab4e081b0558df2c44cc82065b286978a449e4ca"
     },
     {
@@ -103,12 +103,12 @@
       "description": "Neco jungle creatures, together with their associated visual and audio resources.",
       "descriptionEs": "Monstruos Neco de la jungla con sus recursos visuales y de sonido.",
       "category": "world",
-      "size": 121541380,
+      "size": 121261453,
       "filename": "07 Jungle Creatures - Complete.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/07.Jungle.Creatures.-.Complete.zip",
-      "sha256": "5c4b39dfe32bf7dbdc3d816df9c2260a39fa57b913a386d981140f8b168cd876"
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/07.Jungle.Creatures.-.Complete.zip",
+      "sha256": "805abb02d2e811ece5b503c88b9baa5710ba999049d2792961c0981e7784b7be"
     },
     {
       "number": "08",
@@ -121,7 +121,7 @@
       "filename": "08 Troopers - Complete.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/08.Troopers.-.Complete.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/08.Troopers.-.Complete.zip",
       "sha256": "960a5c768f339549e8ad37133adaa51f874a18afdd9095faca44e56459f4c2c4"
     },
     {
@@ -135,7 +135,7 @@
       "filename": "09 Normal Crates - Complete.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/09.Normal.Crates.-.Complete.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/09.Normal.Crates.-.Complete.zip",
       "sha256": "f21811752a7bd4100149adb632bbc9b62182035b7fb40c8658fe05005bc09c8a"
     },
     {
@@ -143,13 +143,13 @@
       "title": "Spirit Urn - Model Music and Effects",
       "titleEs": "Urna de almas",
       "description": "Soul Urn model, carry music and effects. Spoken dialogue lives in package 17.",
-      "descriptionEs": "Modelo de la urna, música al transportarla y efectos. Los diálogos están en el archivo 17.",
+      "descriptionEs": "Modelo de la urna, mÃºsica al transportarla y efectos. Los diÃ¡logos estÃ¡n en el archivo 17.",
       "category": "objects",
       "size": 15310898,
       "filename": "10 Spirit Urn - Model Music and Effects.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/10.Spirit.Urn.-.Model.Music.and.Effects.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/10.Spirit.Urn.-.Model.Music.and.Effects.zip",
       "sha256": "de5305c2efff2ebdd21536b3eddf5ccb599be67a7a8b2beaffefd2a09eb4e0b1"
     },
     {
@@ -163,21 +163,21 @@
       "filename": "11 Rejuvenator - Model Effects and Sounds.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/11.Rejuvenator.-.Model.Effects.and.Sounds.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/11.Rejuvenator.-.Model.Effects.and.Sounds.zip",
       "sha256": "b9ee96906d6492e443f611a8cac6c39007e64cb69e4f2dfd3c3d27046026ed76"
     },
     {
       "number": "12",
       "title": "Buff Vases and Newspapers - Complete",
-      "titleEs": "Jarrones y periódicos de mejoras",
+      "titleEs": "Jarrones y periÃ³dicos de mejoras",
       "description": "Buff vases and newspapers, including their associated object resources.",
-      "descriptionEs": "Jarrones y periódicos de mejoras con sus recursos asociados.",
+      "descriptionEs": "Jarrones y periÃ³dicos de mejoras con sus recursos asociados.",
       "category": "objects",
       "size": 17011187,
       "filename": "12 Buff Vases and Newspapers - Complete.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/12.Buff.Vases.and.Newspapers.-.Complete.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/12.Buff.Vases.and.Newspapers.-.Complete.zip",
       "sha256": "b0c9f5ee49c1c56d7b3b1202eb9073ebd53c2dc4ac7e8a3b0bedd34b2baa4a71"
     },
     {
@@ -191,21 +191,21 @@
       "filename": "13 Safes - Appearance.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/13.Safes.-.Appearance.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/13.Safes.-.Appearance.zip",
       "sha256": "ecefdf5f418eda60f196a2eb5081039b4d717f5031bca8cd23dbd5606340d019"
     },
     {
       "number": "14",
       "title": "Sinners Sacrifice - Model Music and Sounds",
-      "titleEs": "Sinner’s Sacrifice",
-      "description": "Sinner’s Sacrifice model, music and sounds.",
-      "descriptionEs": "Modelo, música y sonidos de Sinner’s Sacrifice.",
+      "titleEs": "Sinnerâ€™s Sacrifice",
+      "description": "Sinnerâ€™s Sacrifice model, music and sounds.",
+      "descriptionEs": "Modelo, mÃºsica y sonidos de Sinnerâ€™s Sacrifice.",
       "category": "objects",
       "size": 23887057,
       "filename": "14 Sinners Sacrifice - Model Music and Sounds.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/14.Sinners.Sacrifice.-.Model.Music.and.Sounds.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/14.Sinners.Sacrifice.-.Model.Music.and.Sounds.zip",
       "sha256": "d9de122250e53399c276b04431f776c692e6e79d33489a05d0ee3ab01da9d027"
     },
     {
@@ -219,21 +219,21 @@
       "filename": "15 Pause - Animations and Sounds.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/15.Pause.-.Animations.and.Sounds.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/15.Pause.-.Animations.and.Sounds.zip",
       "sha256": "6b32bf6869ba6ace2d519fd5f98d573247d2c84016501652a8a4f97ac94d90a4"
     },
     {
       "number": "16",
       "title": "Game Menu - Styles Music and Sounds",
-      "titleEs": "Menús: estilos, música y sonidos",
-      "description": "The game menu’s custom styles, music and sounds.",
-      "descriptionEs": "Estilos, música y sonidos personalizados del menú del juego.",
+      "titleEs": "MenÃºs: estilos, mÃºsica y sonidos",
+      "description": "The game menuâ€™s custom styles, music and sounds.",
+      "descriptionEs": "Estilos, mÃºsica y sonidos personalizados del menÃº del juego.",
       "category": "audio",
       "size": 61337045,
       "filename": "16 Game Menu - Styles Music and Sounds.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/16.Game.Menu.-.Styles.Music.and.Sounds.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/16.Game.Menu.-.Styles.Music.and.Sounds.zip",
       "sha256": "927f5ee877e3e2b5fa8b81046eac1c8fd275cfca3eb6748d549e88a86a1d9712"
     },
     {
@@ -247,77 +247,77 @@
       "filename": "17 NPC Voices - Urn Patrons Dealer and Newscaster.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/17.NPC.Voices.-.Urn.Patrons.Dealer.and.Newscaster.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/17.NPC.Voices.-.Urn.Patrons.Dealer.and.Newscaster.zip",
       "sha256": "017cba8643e0ce89ebf5730bc9be7930e2896766e06c3b7a28d30fe538d16fd4"
     },
     {
       "number": "18",
       "title": "Secret Rem Room and Hideout Decorations",
-      "titleEs": "Habitación secreta de Rem",
+      "titleEs": "HabitaciÃ³n secreta de Rem",
       "description": "Secret Rem room and hideout decorations, including the Neco Bread room props.",
-      "descriptionEs": "Habitación secreta de Rem y decoraciones del refugio, incluidos los Neco Bread.",
+      "descriptionEs": "HabitaciÃ³n secreta de Rem y decoraciones del refugio, incluidos los Neco Bread.",
       "category": "world",
       "size": 167195069,
       "filename": "18 Secret Rem Room and Hideout Decorations.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/18.Secret.Rem.Room.and.Hideout.Decorations.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/18.Secret.Rem.Room.and.Hideout.Decorations.zip",
       "sha256": "9700bcb3a65fca7f3962f9a66ca0c28f181d38df711253e9398cca52308f1d2e"
     },
     {
       "number": "19",
       "title": "Map Colors and Decorations",
       "titleEs": "Colores del mapa y decoraciones",
-      "description": "The village’s world colors, lighting treatment and map decorations.",
-      "descriptionEs": "Colores, tratamiento de iluminación y decoraciones del mapa.",
+      "description": "The villageâ€™s world colors, lighting treatment and map decorations.",
+      "descriptionEs": "Colores, tratamiento de iluminaciÃ³n y decoraciones del mapa.",
       "category": "world",
-      "size": 795830424,
+      "size": 790962268,
       "filename": "19 Map Colors and Decorations.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/19.Map.Colors.and.Decorations.zip",
-      "sha256": "0ecdf9d2ff9f6ed1415d0df5344999f1d822397775b9e6eaa2e8deeef2a645d3"
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/19.Map.Colors.and.Decorations.zip",
+      "sha256": "b1812ff1d4f8479dc05d32a1b9e24ccdcc9964b5234cdb2c4044aebbebedb82d"
     },
     {
       "number": "20",
       "title": "Shops - Models and Music",
-      "titleEs": "Tiendas: modelos y música",
+      "titleEs": "Tiendas: modelos y mÃºsica",
       "description": "Shop models, regular-shop music and secret-shop music. NPC dialogue is in 17.",
-      "descriptionEs": "Modelos de tiendas, música de tienda y tienda secreta. Los diálogos están en el 17.",
+      "descriptionEs": "Modelos de tiendas, mÃºsica de tienda y tienda secreta. Los diÃ¡logos estÃ¡n en el 17.",
       "category": "world",
       "size": 21316904,
       "filename": "20 Shops - Models and Music.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/20.Shops.-.Models.and.Music.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/20.Shops.-.Models.and.Music.zip",
       "sha256": "5f6373811151320e1117c9652cba21773bfb60b0ed6d3d841013b7b5fbcdcb5b"
     },
     {
       "number": "21",
       "title": "Newspaper Stand - Model Animation and Music",
-      "titleEs": "Puesto de periódicos",
-      "description": "The newspaper stand’s custom model, animation and music.",
-      "descriptionEs": "Modelo, animación y música del puesto de periódicos.",
+      "titleEs": "Puesto de periÃ³dicos",
+      "description": "The newspaper standâ€™s custom model, animation and music.",
+      "descriptionEs": "Modelo, animaciÃ³n y mÃºsica del puesto de periÃ³dicos.",
       "category": "world",
       "size": 54302856,
       "filename": "21 Newspaper Stand - Model Animation and Music.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/21.Newspaper.Stand.-.Model.Animation.and.Music.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/21.Newspaper.Stand.-.Model.Animation.and.Music.zip",
       "sha256": "9c80aefc6c974e3f19828f52596049c645e3a834e9c0987731e7bb293c56a218"
     },
     {
       "number": "22",
       "title": "Rift - Music and Alerts",
-      "titleEs": "Grieta: música y avisos",
+      "titleEs": "Grieta: mÃºsica y avisos",
       "description": "Rift music and alerts.",
-      "descriptionEs": "Música y avisos de la grieta.",
+      "descriptionEs": "MÃºsica y avisos de la grieta.",
       "category": "audio",
       "size": 4761221,
       "filename": "22 Rift - Music and Alerts.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/22.Rift.-.Music.and.Alerts.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/22.Rift.-.Music.and.Alerts.zip",
       "sha256": "24fec0e44b0a740bac1eae163a5439d59e966f502f723f150ea61a88c692b6a7"
     },
     {
@@ -327,39 +327,39 @@
       "description": "Veil Walker and Magic Carpet audio, with current native ability data preserved.",
       "descriptionEs": "Audio de Veil Walker y Magic Carpet, conservando los datos actuales de habilidades.",
       "category": "audio",
-      "size": 4459154,
+      "size": 4346294,
       "filename": "23 Items - Veil Walker Magic Carpet and Sounds.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/23.Items.-.Veil.Walker.Magic.Carpet.and.Sounds.zip",
-      "sha256": "41f2b858913808a4e2a096d459b700d4f0736151636d611f962c5116f6912b4e"
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/23.Items.-.Veil.Walker.Magic.Carpet.and.Sounds.zip",
+      "sha256": "00eba2d39dd77b54f340282a5827bdf4521d6f2ecebdda09e8fa60a8e53982c4"
     },
     {
       "number": "24",
       "title": "Patrons and Bases - Models and Music",
       "titleEs": "Patronos y bases",
       "description": "Patron and base models, their presentation and music. Dialogue is in 17.",
-      "descriptionEs": "Modelos, presentación y música de patronos y bases. Los diálogos están en el 17.",
+      "descriptionEs": "Modelos, presentaciÃ³n y mÃºsica de patronos y bases. Los diÃ¡logos estÃ¡n en el 17.",
       "category": "world",
       "size": 120674492,
       "filename": "24 Patrons and Bases - Models and Music.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/24.Patrons.and.Bases.-.Models.and.Music.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/24.Patrons.and.Bases.-.Models.and.Music.zip",
       "sha256": "7032f574ef8c446f3d32b11acb188216a93033e2b637602fe16e8b315ceb5f79"
     },
     {
       "number": "25",
       "title": "Gold Crates and Parachutes",
-      "titleEs": "Cajas doradas y paracaídas",
+      "titleEs": "Cajas doradas y paracaÃ­das",
       "description": "Inactive legacy entry. Not included in the recommended setup or the GameBanana edition.",
-      "descriptionEs": "Archivo antiguo desactivado. No se incluye en la selección recomendada ni en la edición de GameBanana.",
+      "descriptionEs": "Archivo antiguo desactivado. No se incluye en la selecciÃ³n recomendada ni en la ediciÃ³n de GameBanana.",
       "category": "objects",
       "size": 2311008,
       "filename": "25 Gold Crates and Parachutes.zip",
       "requires": [],
       "legacy": true,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/25.Gold.Crates.and.Parachutes.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/25.Gold.Crates.and.Parachutes.zip",
       "sha256": "430c7e7e847ce54486573fb8ad2e925990e2e35ae211de36b48a211bab9e89f4"
     },
     {
@@ -373,7 +373,7 @@
       "filename": "26 Buff Crystals - Models and Sounds.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/26.Buff.Crystals.-.Models.and.Sounds.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/26.Buff.Crystals.-.Models.and.Sounds.zip",
       "sha256": "9ac10b0f5ab163a0aece8d93b4b8a31d986a6230d86049ee4eb1ec2d98b570b2"
     },
     {
@@ -387,7 +387,7 @@
       "filename": "27 Buff Tomes - Models and Pickup Sound.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/27.Buff.Tomes.-.Models.and.Pickup.Sound.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/27.Buff.Tomes.-.Models.and.Pickup.Sound.zip",
       "sha256": "ace4966072c0990cebdbcbaae2d7070311d2376b428a66e88218532ff3fe0324"
     },
     {
@@ -401,7 +401,7 @@
       "filename": "28 Soul Orbs and Containers.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/28.Soul.Orbs.and.Containers.zip",
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/28.Soul.Orbs.and.Containers.zip",
       "sha256": "e8a5553c05db39613e5bdc58817b7250c842c67ec962e174dd9e598440765988"
     },
     {
@@ -411,27 +411,27 @@
       "description": "Custom team HUD logos and names.",
       "descriptionEs": "Logos del HUD y nombres de equipos personalizados.",
       "category": "audio",
-      "size": 24616125,
+      "size": 24620114,
       "filename": "29 Team Identity - HUD Logos and Names.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/29.Team.Identity.-.HUD.Logos.and.Names.zip",
-      "sha256": "3a1d00eeb9b1801a79164cd5e923ec9cd789145b458f38952b39b1feb763d258"
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/29.Team.Identity.-.HUD.Logos.and.Names.zip",
+      "sha256": "a66fdb0defb9d19ec2beb058745e5c5448534b5cbd80ad708f75035616136457"
     },
     {
       "number": "30",
       "title": "Match Audio - Music Combat and Announcements",
       "titleEs": "Audio de partidas",
       "description": "Match music, combat sounds and announcements.",
-      "descriptionEs": "Música de partidas, sonidos de combate y anuncios.",
+      "descriptionEs": "MÃºsica de partidas, sonidos de combate y anuncios.",
       "category": "audio",
-      "size": 40040885,
+      "size": 40040161,
       "filename": "30 Match Audio - Music Combat and Announcements.zip",
       "requires": [],
       "legacy": false,
-      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r41-website/30.Match.Audio.-.Music.Combat.and.Announcements.zip",
-      "sha256": "a9e59532bb89eaf533d3431f080e39dc1d1d683ade7e0bb9648d343accb001de"
+      "downloadUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/download/r42-website/30.Match.Audio.-.Music.Combat.and.Announcements.zip",
+      "sha256": "95bef0fbdf958756d320d0e21eaa5db80a1a0a2ff8337e692799b7708029ca98"
     }
   ],
-  "releaseUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/tag/r41-website"
+  "releaseUrl": "https://github.com/AruHonshou/Great-Cat-s-Village-R/releases/tag/r42-website"
 }

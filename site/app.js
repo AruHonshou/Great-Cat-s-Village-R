@@ -42,7 +42,7 @@ const spanish={
  "downloadsLabel": "CATÁLOGO DE ARCHIVOS",
  "downloadsTitle": "Conoce lo que instalas.",
  "downloadsDescription": "Revisa el contenido, las dependencias y el tamaño de cada componente antes de preparar tu selección.",
- "downloadNotice": "Descarga los ZIP r41 de cada componente desde el catálogo. La edición agrupada también está disponible en GameBanana.",
+ "downloadNotice": "Descarga los ZIP actualizados r42 de cada componente desde el catálogo. La edición agrupada también está disponible en GameBanana.",
  "filterAll": "Todos",
  "filterSkins": "Skins",
  "filterWorld": "Mundo y criaturas",
@@ -164,7 +164,7 @@ function openDetails(number){
  activeStandalone=null;
  if(!catalog)return;
  const f=catalog.files.find(f=>f.number===number);if(!f)return;const skin=skins.find(s=>s.number===number);
- $('#dialog-number').textContent=`${text('ORIGINAL FILE','ARCHIVO ORIGINAL')} ${number} / R41`;
+ $('#dialog-number').textContent=`${text('ORIGINAL FILE','ARCHIVO ORIGINAL')} ${number} / R42`;
  $('#dialog-content').innerHTML=`${skin?`<img class="dialog-art" src="assets/${skin.image}.webp" alt="${esc(skin.name)}">`:''}<h3>${esc(title(f))}</h3><p>${esc(description(f))}</p><p>${f.legacy?text('This is an inactive legacy file. It is not part of the recommended setup.','Este archivo antiguo está desactivado y no forma parte de la selección recomendada.'):f.number==='01'?text('Install once. This is the shared support for all five character skins.','Instálalo una vez. Es el soporte compartido de las cinco skins.'):f.requires.length?text('Requires package 01, installed once.','Requiere el archivo 01, instalado una sola vez.'):text('An optional independent feature.','Una función independiente y opcional.')}</p><p class="dialog-file">${esc(f.filename)}<br>${size(f.size)}</p>${!f.legacy&&f.number!=='01'?`<button class="button button-red" id="dialog-select">${selected.has(number)?text('Remove from setup','Quitar de mi selección'):text('Add to my setup','Añadir a mi selección')} <span>+</span></button>`:''}${!f.legacy?`<a class="button button-dark" href="${catalog.gamebananaUrl}" target="_blank" rel="noopener noreferrer">${text('Collection on GameBanana','Colección en GameBanana')} ↗</a>`:''}${f.downloadUrl?`<a class="button button-red" href="${esc(f.downloadUrl)}">${text('Download ZIP','Descargar ZIP')} ↓</a>`:''}<small class="pending-download">${text('Read the README included in the ZIP before installing.','Lee el README incluido en el ZIP antes de instalar.')}</small>`;
  $('#dialog-select')?.addEventListener('click',()=>{toggleSelection(number);$('#file-dialog').close();showToast(text('Your setup has been updated.','Tu selección se ha actualizado.'));});
  $('#file-dialog').showModal();
@@ -185,4 +185,4 @@ $('#save-list').addEventListener('click',saveList);$('#close-dialog').addEventLi
 $('#file-dialog').addEventListener('close',()=>{activeStandalone=null;$('#dialog-content').querySelectorAll('iframe').forEach(frame=>frame.remove());});
 $('#file-dialog').addEventListener('click',e=>{if(e.target===$('#file-dialog')){const r=e.target.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)e.target.close();}});
 applyLanguage();
-fetch('catalog.json?v=r41-downloads').then(r=>{if(!r.ok)throw new Error('catalog');return r.json();}).then(data=>{catalog=data;selected=new Set([...selected].filter(n=>catalog.files.some(f=>f.number===n&&!f.legacy)));selected.add('01');renderCatalog();renderSelection();}).catch(()=>{$('#catalog-list').innerHTML=`<p>${text('The catalog could not load. Please refresh this page.','No se pudo cargar el catálogo. Actualiza esta página.')}</p>`;$('#save-list').disabled=true;});
+fetch('catalog.json?v=r42-downloads').then(r=>{if(!r.ok)throw new Error('catalog');return r.json();}).then(data=>{catalog=data;selected=new Set([...selected].filter(n=>catalog.files.some(f=>f.number===n&&!f.legacy)));selected.add('01');renderCatalog();renderSelection();}).catch(()=>{$('#catalog-list').innerHTML=`<p>${text('The catalog could not load. Please refresh this page.','No se pudo cargar el catálogo. Actualiza esta página.')}</p>`;$('#save-list').disabled=true;});
