@@ -1,12 +1,12 @@
 /* Commission brief and decorative motion. No form data leaves this page. */
 (() => {
   const services = [
-    {id:'model', en:'Character model replacement', es:'Reemplazo de modelo de personaje', rate:40},
-    {id:'asset', en:'Custom image or sound', es:'Imagen o sonido personalizado', rate:10},
-    {id:'animated', en:'Animated poses', es:'Poses animadas', rate:40},
-    {id:'particles', en:'Particle changes', es:'Cambios de partículas', rate:30},
-    {id:'presentation', en:'Selection / MVP / key player pose', es:'Pose de selección / MVP / jugador clave', rate:30},
-    {id:'objects', en:'Object modelling', es:'Modelado de objetos', rate:40}
+    {id:'model', en:'Character model replacement', es:'Reemplazo de modelo de personaje', rate:35},
+    {id:'asset', en:'Custom image or sound', es:'Imagen o sonido personalizado', rate:5},
+    {id:'animated', en:'Animated poses', es:'Poses animadas', rate:35},
+    {id:'particles', en:'Particle changes', es:'Cambios de partículas', rate:25},
+    {id:'presentation', en:'Selection / MVP / key player pose', es:'Pose de selección / MVP / jugador clave', rate:25},
+    {id:'objects', en:'Object modelling', es:'Modelado de objetos', rate:35}
   ];
   const selector = document.querySelector('#commission-service');
   const quantity = document.querySelector('#commission-quantity');
